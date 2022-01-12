@@ -3,8 +3,5 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
-  "dependencies": {
-    "base-58": "^0.0.1",
-    "secp256k1": "^4.0.3"
-  }
+  "dependencies": {}
 }
